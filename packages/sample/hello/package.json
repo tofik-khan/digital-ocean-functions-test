@@ -1,0 +1,10 @@
+{
+    "name": "sample-hellp",
+    "version": "1.0.0",
+    "description": "Sample function to test Digital Ocean Serverless features",
+    "main": "hello.js",
+    "dependencies": {
+        "mongodb": "^4.12.1"
+    },
+    "devDependencies": {}
+  }
